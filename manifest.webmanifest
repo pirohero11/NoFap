@@ -1,0 +1,19 @@
+{
+  "name": "LOCKIN \u2014 Discipline, Faith, Purpose",
+  "short_name": "LOCKIN",
+  "description": "A private discipline, faith, and personal growth command center.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080c14",
+  "theme_color": "#090d16",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
